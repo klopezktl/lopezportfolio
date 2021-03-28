@@ -88,8 +88,16 @@
             <div class="row">
               <div class="skill-name col-lg-6">
                 <p>Spring Framework</p>
+                <p>Vue.js</p>
               </div>
               <div class="skill-rate col-lg-6">
+                <p>
+                  <i class="fas fa-star"></i>
+                  <i class="fas fa-star"></i>
+                  <i class="far fa-star"></i>
+                  <i class="far fa-star"></i>
+                  <i class="far fa-star"></i>
+                </p>
                 <p>
                   <i class="fas fa-star"></i>
                   <i class="fas fa-star"></i>
